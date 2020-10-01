@@ -1,2 +1,3 @@
 # test-respository
-My first repository
+My first repository.
+I am learning GITHUB.
